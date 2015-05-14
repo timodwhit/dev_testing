@@ -1,4 +1,4 @@
-name = Standard
+name = Dev Testing
 description = Install standard profile without toolbar or overlay, and with admin-menu and simpletest.
 core = 7.x
 
